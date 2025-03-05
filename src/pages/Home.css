@@ -1,0 +1,7 @@
+@media (max-width: 1023px) {
+    .bg-responsive {
+      background-size: contain !important;
+      background-repeat: no-repeat !important;
+      background-position: initial !important;
+    }
+  }
